@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Whabster
+- 👀 I’m interested in learning a new skill to change career
+- 🌱 I’m currently learning Python, GitHub, Bitcoin, and Lightning
+- 💞️ I’m looking to collaborate on anything that allows me to learn and improve my skills
+- 📫 How to reach me whibli@gmail.com
